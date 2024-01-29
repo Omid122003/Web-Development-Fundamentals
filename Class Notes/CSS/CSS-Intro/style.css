@@ -1,0 +1,14 @@
+h1 {
+    background-color: palegoldenrod;
+    border: 3px solid black;
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+    width: 25vw;
+    margin: 30px auto;
+}
+
+ul.mylist {
+    border: 2px dotted lime;
+}
